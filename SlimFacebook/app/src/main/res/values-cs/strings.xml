@@ -21,6 +21,12 @@ SlimSocial for Facebook is an Open Source app realized by Leonardo Rignanese
     <string name="prefCat_app_information_title">Informace o aplikaci</string>
     <string name="title_recentNewsFirst">Seřadit příspěvky od nejnovějších</string>
     <string name="summary_recentNewsFirst">místo nejdůležitějších</string>
+    <string name="title_fixedBar">Fixní lišta</string>
+    <string name="summary_fixedBar">Modrá lišta bude vždy nahoře ukotvena.</string>
+    <string name="title_blackTheme">Tmavý motiv</string>
+    <string name="summary_blackTheme">Pozadí bude černé a text bílí. (Vhodné pro AMOLED display)</string>
+    <string name="title_hideSponsoredPosts">Nezobrazovat sponzorované příspěvyk</string>
+    <string name="summary_hideSponsoredPosts">Sponzorované příspěvky nebudou k dispozici!</string>
     <string name="title_downloadImages">Šetřit data (nutný restart)</string>
     <string name="summary_downloadImages">Nestahovat obrázky</string>
     <string name="title_selectTheme">Vybrat motiv</string>
@@ -31,6 +37,9 @@ SlimSocial for Facebook is an Open Source app realized by Leonardo Rignanese
     <string name="prefCat_developersCredits_title">Vývojáři</string>
     <string name="summary_LeonardoRignanese">Tvůrce a vývojář aplikace</string>
     <string name="prefCat_translatorsCredits_title">Překladatelé</string>
+    <string name="prefCat_designersCredits_title">Designéři</string>
+    <string name="donate">Darovat</string>
+    <string name="donateToContribute">Vybral jsem si, že udělám aplikaci zdarma. Můžete mě ale pozvat na kávu?</string>
     <!--end settings-->
 
     <!--page error-->
@@ -46,6 +55,11 @@ SlimSocial for Facebook is an Open Source app realized by Leonardo Rignanese
     <string name="shareThisLink">Sdílet odkaz</string>
     <string name="chooseAnImage">Vyberte obrázek</string>
     <string name="summary_FaceSlim">Bez nich bych nemohl přidat několik zajímavých funkcí. Každý správný vývojář vidí a chápe jejich přínos.</string>
+    <string name="summary_lRemainl">Designér velkolepého loga</string>
+    <string name="exit">Exit</string>
+    <string name="downloadThisApp">Stáhnout SlimSocial for Facebook: \n https://play.google.com/store/apps/details?id=it.rignanese.leo.slimfacebook</string>
+    <string name="noPersonalInformationAreShared">Aplikace neshromažďuje ani nepřenáší žádné osobní nebo soukromé informace o vás nebo vašem zařízení!</string>
+
     
     <!--end other-->
 
